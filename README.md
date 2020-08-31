@@ -13,3 +13,7 @@
 - [JavaScript之Promise主要功能模拟实现](https://github.com/chenyong9528/Blog/issues/10)
 - [JavaScript之generator函数的自动执行](https://github.com/chenyong9528/Blog/issues/11)
 - [JavaScript之坑爹的类型转换](https://github.com/chenyong9528/Blog/issues/12)
+
+## JavaScript专题系列
+
+敬请期待...
