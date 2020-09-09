@@ -16,4 +16,8 @@
 
 ## JavaScript专题系列
 
-敬请期待...
+- [JavaScript之数组去重](https://github.com/chenyong9528/Blog/issues/13)
+- [JavaScript之数组扁平化](https://github.com/chenyong9528/Blog/issues/14)
+- [JavaScript之函数柯里化](https://github.com/chenyong9528/Blog/issues/15)
+- [JavaScript之防抖节流](https://github.com/chenyong9528/Blog/issues/16)
+- [JavaScript之深浅拷贝](https://github.com/chenyong9528/Blog/issues/17)
